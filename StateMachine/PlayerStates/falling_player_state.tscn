@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b7kwfqufcouda"]
+
+[ext_resource type="Script" path="res://StateMachine/PlayerStates/falling_player_state.gd" id="1_y3g6d"]
+
+[node name="FallingPlayerMovementState" type="Node"]
+script = ExtResource("1_y3g6d")
