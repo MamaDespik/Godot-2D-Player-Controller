@@ -1,7 +1,7 @@
 [gd_scene load_steps=12 format=3 uid="uid://cnphch8ulvp8p"]
 
-[ext_resource type="Script" path="res://Player/player.gd" id="1_jrvh6"]
-[ext_resource type="Script" path="res://Player/PlayerMovementData.gd" id="2_45c3k"]
+[ext_resource type="Script" uid="uid://cdtladigjlq1e" path="res://Player/player.gd" id="1_jrvh6"]
+[ext_resource type="Script" uid="uid://c4edr6f2t0ucp" path="res://Player/PlayerMovementData.gd" id="2_45c3k"]
 [ext_resource type="PackedScene" uid="uid://b1khdtxqwp2f" path="res://Spring Camera/spring_camera.tscn" id="4_md3d5"]
 [ext_resource type="Texture2D" uid="uid://p2fbpxy1rota" path="res://icon.svg" id="6_ieyh0"]
 [ext_resource type="PackedScene" uid="uid://of34ornvyat4" path="res://StateMachine/state_machine.tscn" id="7_o2wf0"]

@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://b1khdtxqwp2f"]
 
-[ext_resource type="Script" path="res://Spring Camera/spring_camera.gd" id="1_smo7c"]
+[ext_resource type="Script" uid="uid://j3yal0gr61xg" path="res://Spring Camera/spring_camera.gd" id="1_smo7c"]
 
 [node name="SpringCamera" type="Camera2D"]
 top_level = true
